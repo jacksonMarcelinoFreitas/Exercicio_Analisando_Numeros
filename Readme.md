@@ -3,9 +3,13 @@
 🔰 Descrição:
 Neste exercício foi elaborado com CSS, HTML e JS, a apresentação de uma lista de números inseridos pelo usúário, que apresenta ao final:
 👉🏻soma;
+
 👉🏻media;
+
 👉🏻quantidade de números ;
+
 👉🏻maior número;
+
 👉🏻menor número.
 
 -Curso de Java Script - Curso em Vídeo - Prof.: Guanabara
